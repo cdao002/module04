@@ -7,6 +7,5 @@ const root = createRoot(document.getElementById('content'));
 root.render(
   <React.StrictMode>
     <EmployeeList /> 
-  </React.StrictMode>,     
-  document.getElementById('content')
+  </React.StrictMode>
 )

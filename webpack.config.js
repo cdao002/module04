@@ -1,6 +1,6 @@
 // import { plugin } from 'mongoose'
 
-import webpack from 'webpack'
+// import webpack from 'webpack'
 import path from 'path'
 import { fileURLToPath } from 'url'
 
